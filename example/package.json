@@ -51,7 +51,7 @@
     "flow-typed": "2.1.5",
     "husky": "0.14.3",
     "jest": "23.4.2",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "prettier": "1.5.3",
     "react-test-renderer": "16.4.1",
     "wdio-html-reporter": "^1.0.2",
