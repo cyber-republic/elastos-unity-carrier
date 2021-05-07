@@ -34,7 +34,7 @@
     "lint": "eslint ./src"
   },
   "dependencies": {
-    "lodash": "4.17.19"
+    "lodash": "4.17.21"
   },
   "peerDependencies": {
     "react-native": "0.56.0"
