@@ -10,7 +10,7 @@
     "autotest:android": "./node_modules/.bin/wdio ./config/wdio.android.app.conf.js"
   },
   "dependencies": {
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "native-base": "2.7.0",
     "react": "16.4.1",
     "react-native": "0.56.0",
